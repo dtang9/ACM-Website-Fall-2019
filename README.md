@@ -9,4 +9,12 @@ Ingelbert Figueroa (Support)<br>
 
 ### To Run
 
-`npm run`
+`npm start`
+
+### Development Procedures
+
+TBD
+
+### Website
+
+acm-calstatela.com
