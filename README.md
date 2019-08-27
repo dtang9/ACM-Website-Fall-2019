@@ -25,8 +25,20 @@ Please follow these procedures to complete your assigned tasks, doing so will al
 <li> Add "EmilyPascua" as a reviewer (left hand corner). Add any comments if necessary.
 <li> After Emily reviews your code, she will merge it into develop.
 </ul>
+
+Notes: Your branch won't be deleted after merging for documenting purposes. Emily will close the issue once code is merged.
   
-Wa'lah!
+Wa'lah!<br>
+
+<b>Types of Tasks</b>
+
+Not all tasks are for development, sometimes they are for fixing up bugs, adding documentation, or whatever. Here's how to differentiate. These can be found in the right hand side of the issue.
+
+<ul>
+  <li> <b>Bug</b> A bug. These are usually high priority.
+  <li> <b>Enchancement</b> These are features. Low priority and most likely "nice-to-haves".
+  <li> <b>Documentation</b> ??? Idk if we may even use this.
+</ul>
 
 ## Website
 
