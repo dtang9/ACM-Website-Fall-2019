@@ -15,7 +15,7 @@ Ingelbert Figueroa (Support)<br>
 
 Please follow these procedures to complete your assigned tasks, doing so will allow clean and easy-to-follow code changes! :)<br>
 
-<b>General Strategy</b>
+<u><b>General Strategy</b></u>
 
 <ul>
 <li> You will be assigned an issue. These issues are usually labeled as "ACMW-XXXX".
@@ -30,7 +30,7 @@ Notes: Your branch won't be deleted after merging for documenting purposes. Emil
   
 Wa'lah!<br>
 
-<b>Types of Tasks</b>
+<u><b>Types of Tasks</b></u>
 
 Not all tasks are for development, sometimes they are for fixing up bugs, adding documentation, or whatever. Here's how to differentiate. These can be found in the right hand side of the issue.
 
