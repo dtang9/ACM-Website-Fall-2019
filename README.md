@@ -7,11 +7,11 @@ George Chan (Web Comittee)<br>
 Derick Kwok (Support)<br>
 Ingelbert Figueroa (Support)<br>
 
-### To Run
+## To Run
 
 `npm start`
 
-### Development Procedures
+## Development Procedures
 
 Please follow these procedures to complete your assigned tasks, doing so will allow clean and easy-to-follow code changes! :)<br>
 
@@ -28,6 +28,6 @@ Please follow these procedures to complete your assigned tasks, doing so will al
   
 Wa'lah!
 
-### Website
+## Website
 
 acm-calstatela.com
