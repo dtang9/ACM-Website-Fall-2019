@@ -15,6 +15,10 @@ Ingelbert Figueroa (Support)<br>
 
 Please follow these procedures to complete your assigned tasks, doing so will allow clean and easy-to-follow code changes! :)<br>
 
+<u><b>Workflow</b></u>
+
+Gitflow
+
 <u><b>General Strategy</b></u>
 
 <ul>
