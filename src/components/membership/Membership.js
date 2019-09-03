@@ -3,7 +3,6 @@ import "./membership.css"
 import VenmoQr from './assets/venmo-qr.jpg'
 import {Tabs,Row,Col,Tab,Nav} from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.css'
-import Modal from 'react-awesome-modal';
 
 class Membership extends React.Component {
 		render(){
