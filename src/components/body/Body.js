@@ -128,12 +128,13 @@ class Body extends React.Component {
 
                         <div class="row row-header">
                         <div class="col-sm subcon-body">
-                                <div class="quote-style-2">
-                                    CSULA's largest computer science<br></br>community - <span className="highlight-text-style2"><b><i>for a reason.</i></b></span>
+                                <div class="quote-style-2">CSULA's largest computer science<br></br>community - <span className="highlight-text-style2"><b><i>for a reason.</i></b></span>
                                 </div>
                             </div>
                             <div class="col-sm subcon-body">
                                 <div>
+                                <br></br>
+                                <br></br><br></br>
                                     The Association for Computing Machinery (ACM) is the world's largest educational and
                                     scientific computing society, delivers resources that advance computing as a science and
                                     a profession. ACM provides the computing field's premier Digital Library and serves its
@@ -146,7 +147,10 @@ class Body extends React.Component {
                         
                         </div>
                     </div>
+
                     <div className="center-officers">
+                    <div className="parallax_style4">
+                 </div>
 <h2>ACM 2019-2020</h2>
 BOARD<br></br><br></br>
 
