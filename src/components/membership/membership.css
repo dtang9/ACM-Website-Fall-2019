@@ -122,21 +122,31 @@ end of code
 	margin: 50px;
 }
 
+a{
+	color: white !important;
+}
+
+.nav-item{
+	color:white !important;
+
+}
+
 .header-left{
 	float: left;
+}
+
+.btn-info{
+	color:white !important;
 }
 
 .t-shirts{
 	width: 200px;
 }
 
-.quote-style-2{
-	text-align: center;
+.membership-footer-text{
+ text-align: center !important;
 }
 
-.membership-btn-override {
-	background-color: #edce00;
-}
 
 .venmo-container {
 	display: flex;
