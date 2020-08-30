@@ -11,7 +11,7 @@ On Git, run: <br>
 ## How do I run the project after cloning?
 Using the command line (not Git), go to the project directory and run:
 
-### `npm clean-install`
+### `npm install`
 
 ### `npm start`
 
@@ -83,4 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # 123
-# ACM_Website_2019-2020
+# ACM_Website_2019-2021
