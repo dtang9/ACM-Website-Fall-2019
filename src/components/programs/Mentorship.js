@@ -7,10 +7,17 @@ class Mentorship extends React.Component {
     render() {
         return (
             <div>
+                {/* Updating the mentorship page 
+                Steps:
+                1. Place the most recent mentorship flyer on a new page in the Programs.js file
+                   (Follow the block of comment with steps in the Programs.js file)
+                2. Then update Mentorship.js with the new mentorship information
+                3. Remember to update the dates in the disclaimer in the Programs.js file
+                */}
                 <Tab.Container defaultActiveKey="menteeRole">
                     <br></br>
                     <h2><b>The <span className="highlight-text">mentorship program</span> is a life-changing experience that will help you in school and prepare you for your future career.</b></h2><br></br>                   
-                    <img src={require("./pictures/fall2020-mentorship-flyer.png")} className="img-fluid programs-poster" alt="mentorship flyer"></img>
+                    <img src={require("./pictures/spring2021-mentorship-flyer.png")} className="img-fluid programs-poster" alt="mentorship flyer"></img>
                     <br></br><br></br>
                     
                     <Nav variant="pills">
@@ -60,19 +67,21 @@ class Mentorship extends React.Component {
                                 In this program, mentees will:<br></br><br></br>
 
                                 <b className="highlight-text">
-                                    ❖ Work one-on-one with a mentor<br></br>
-                                    ❖ Improve/create their resume<br></br>
-                                    ❖ Improve/create their elevator speech<br></br>
-                                    ❖ Be taught how to manage their responsibilities/tasks<br></br>
-                                    ❖ Learn how to manage their time and finances<br></br>
+                                    ❖ Time management<br/>
+                                    ❖ Building your Resume, Cover Letter, Thank You Letter<br/>
+                                    ❖ Behavioral and Technical Interviews<br/>
+                                    ❖ Creating professional social media accounts (Handshake, LinkedIn)<br/>
+                                    ❖ Technical Practices in the CS field (Agile, Waterfall)<br/>
+                                    ❖ Conferences<br/>
+                                    ❖ Finances<br/>
                                 </b>                                                                
                             </p>
 
                         </Tab.Pane>
                     </Tab.Content>
-                    <br></br><b>The deadline to apply is <span className="highlight-text">Tuesday, September 1, 2020 at 11:59pm.</span> Join our <span className="highlight-text">mentorship program</span> today before it's too late!</b><br></br><br></br>
+                    <br></br><b>The deadline to apply is <span className="highlight-text">Sunday, February 7, 2021.</span> Join our <span className="highlight-text">mentorship program</span> today before it's too late!</b><br></br><br></br>
                 
-                    <Button variant="success" size="lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=AiCKzo9EWE-Csdhvc-Ov3Z5F1F8bCtlFj7IWFte9H9dUMVRZS1BaU1FIV09TV0pNVVBIVEIxODdLRS4u">Join Now!</Button>
+                    <Button variant="success" size="lg" href="https://forms.gle/CSdU5xJUDAPV1oEt6">Join Now!</Button>
                 </Tab.Container>
             </div>
         )
